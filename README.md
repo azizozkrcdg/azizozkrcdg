@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azizozkrcdg
 - 👀 I'm interested in software
-- 🌱 I’m currently learning object oriented programming
+- 🌱 I’m currently learning java and object oriented programming
 - 📫 You can send an e-mail to reach me -> azizozkaracadagg@gmail.com
 
 <!---
