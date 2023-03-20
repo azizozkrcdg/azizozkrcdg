@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Aziz
 - 👀 I'm interested in software
-- 🌱 I’m currently learning Python, Cyber Security and Object Oriented Programming
+- 🌱 I’m currently learning Python and Cyber Security.
 - 📫 You can send an e-mail to reach me -> azizozkaracadagg@outlook.com
 
 <!---
