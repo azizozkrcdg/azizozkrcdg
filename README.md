@@ -1,8 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFhllfBz2oP5Q/profile-displaybackgroundimage-shrink_350_1400/0/1677580415912?e=1691625600&v=beta&t=G2w72FSwy7hC22_PKa28K8WCazsPfWF2UbYaAVRa3VQ)
 <h1 align="center">Hi 👋, I'm Muhammed Aziz</h1>
-<h3 align="center">A penetration tester in Turkey</h3>
+<h3 align="center">I am a computer programmer. I am improving myself in the field of cyber security and software</h3>
 
-- 💬 Ask me about **Python, Penetration testing**
+- 💬 Ask me about **JavaScript, Node.js and Cyber Security**
 
 - 📫 How to reach me **azizozkaracadagg@outlook.com**
 
