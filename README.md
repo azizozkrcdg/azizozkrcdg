@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">I am a computer programmer. I am improving myself in the field of software and web security</h3>
 
-- 💬 Ask me about **Node.js, Web development and Web Security**
+- 💬 Ask me about **Node.js, Laravel, Web development and Web Security**
 
 - 📫 How to reach me **azizozkaracadagg@outlook.com**
 
