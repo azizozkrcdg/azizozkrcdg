@@ -1,8 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHw9uR8TsMFbA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737452721028?e=1743033600&v=beta&t=whop2d-Ygg4dodjv6cUb8ENC53Z2FJ5W825Dzyq_378)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">I am a computer programmer. I am improving myself in the field of software and web security</h3>
+<h3 align="center">I am a computer programmer. I am improving myself in the field of Network and Cyber Security</h3>
 
-- 💬 Ask me about **Node.js, Laravel, Web development and Web Security**
+- 💬 Ask me about **Network and Cyber Security**
 
 - 📫 How to reach me **azizozkaracadagg@outlook.com**
 
